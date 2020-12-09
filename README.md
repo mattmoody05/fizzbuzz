@@ -1,2 +1,2 @@
 # fizzbuzz
- solution to fizzbuzz problem
+A quick solution to the fizzbuzz problem often given in computer science, as a standalone function, and with a cli menu. All written in python!
